@@ -1,0 +1,93 @@
+{
+"experience": [
+    {
+        "title": "Data Engineer (Internship)",
+        "company": "Capital One",
+        "location": "McLean, VA",
+        "start": "June 2019",
+        "end": "August 2019",
+        "description": [
+            "Won 1st place at Capital One's Hackathon of 540 interns with a Chrome extension that improves Amazon shoppers' financial literacy by integrating their budget & credit card data into the site and provides warnings/recommendations",
+            "Used NLP/NLU to generate reports of Anti-Money Laundering investigations (Python, Angular, AWS Snowflake)",
+            "Designed hierarchical chart data visualizations and tab-based UI for AML investigation case data which highlights suspicious activity"
+        ],
+        "links": [
+            {
+                "title": "First Place Hackathon Budgeting Chrome Extension Code",
+                "description": "This Chrome Extension was our entry for the 2019 Intern Onboarding Hackathon at Capital One. After two rounds of judging projects by 540 software engineering interns, this extension won first place.",
+                "url": "https://github.com/ryanwest6/amazon-budget-chrome-extension"
+            }
+        ]
+    },
+    {
+        "title": "Security Researcher",
+        "company": "Internet Security Research Lab (BYU)",
+        "location": "BYU, Provo, UT",
+        "start": "April 2019",
+        "end": "Present",
+        "description": [
+            "Led 6-man team of researchers on designing a system to detect ransomware and extract the encryption keys it used from RAM",
+            "Researched CONIKS distributed PKI and Signal Protocol for man-in-the-middle attack vulnerability"
+        ],
+        "links": []
+    },
+    {
+        "title": "Blockchain Software Engineer",
+        "company": "Sovrin Foundation",
+        "location": "Provo, UT",
+        "start": "March 2018",
+        "end": "June 2019",
+        "description": [
+            "Developed an open-source decentralized identity network (Hyperledger Indy) in Rust & Python",
+            "Researched/Designed Byzantine Fault Tolerance consensus algorithms & key revocation for GDPR",
+            "Implemented cryptocurrency/fiat billing systems capable of processing 10k+ txns/sec with Docker",
+            "Author of open-source cryptographic connection protocol for secure key/credential exchange",
+            "Built Jenkins CI/CD pipeline & finance servers with Terraform, SaltStack & AWS EC2/S3/Lambda",
+            "Conducted interviews for, hired, and mentored software development interns across 4 continents"
+        ],
+        "links": [
+            {
+                "title": "Fiat Reconciliation Tool in Python",
+                "description": "An example of open-source code I contributed to Hyperledger. This tool looks at transactions downloaded from the Sovrin identity blockchain and calculates invoices to send to whoever wrote to the ledger. The tool uses a blockchain downloader and query library that I also wrote: https://github.com/sovrin-foundation/steward-tools/tree/master/local_ledger.",
+                "url": "https://github.com/sovrin-foundation/steward-tools/tree/master/fiat_reconciliation"
+            },
+            {
+                "title": "Hyperledger Indy Paper: Connection Protocol",
+                "description": "Hyperledger Indy secure connection protocol proposal that I co-authored which was accepted by the community and is now being implemented across many apps and wallets.",
+                "url": "https://github.com/hyperledger/indy-hipe/tree/master/text/0031-connection-protocol"
+            }
+        ]
+    },
+    {
+        "title": "Lead Software Developer & Researcher", 
+        "company": "Configurable Computing Lab",
+        "location": "BYU, Provo, UT",
+        "start": "April 2017",
+        "end": "October 2018",
+        "description": [
+            "Wrote a compression algorithm to reduce data files’ size by 99%",
+            "Led software development of an embedded system running Arch Linux, designed to measure FPGA reliability using simulated radiation injection (maintained SVN/Git repos with ~30k lines of code)",
+            "Implemented multi-threaded client & embedded web server in C/C++ with RESTful API in Python",
+            "Improved network FPGA sniffer to intercept 15x more packets"
+        ],
+        "links": [
+            {
+                "title": "JCM Server in C/C++",
+                "description": "The JCM (Jtag Configuration Manager) is an embedded system running Arch Linux. It is used in the Configurable Computing Lab at BYU, and its purpose is to monitor the response that FPGA devices have when exposed to radiation. The JCM can also emulate the behavior of radiation and inject faults into the FPGA configuration memory, providing a safe, efficient way to do radiation tests.",
+                "url": "https://github.com/ryanwest6/Jcm_Server"
+            }
+        ]
+    },
+    {
+        "title": "Teacher Assistant for Digital Systems",
+        "company": "Department of Computer Engineering",
+        "location": "BYU, Provo, UT",
+        "start": "January 2017",
+        "end": "April 2017",
+        "description": [
+            "Helped ~90 students design and implement a microprocessor, instruction set architecture (MIPS), assembly code for their processor, and other digital logic projects in Vivado using Verilog"
+        ],
+        "links": []
+    }
+]
+}
