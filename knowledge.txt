@@ -11,4 +11,3 @@ Research
 Spanish (Fluent)
 Embedded Prog.
 Cryptography
-Nothing Else
