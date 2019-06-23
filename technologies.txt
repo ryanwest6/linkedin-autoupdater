@@ -1,0 +1,8 @@
+Linux
+JIRA
+Jenkins
+SaltStack
+Git/SVN
+AWS
+Docker & VMs
+Terraform
