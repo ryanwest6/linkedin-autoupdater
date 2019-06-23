@@ -17,7 +17,7 @@
         "start": "June 2019",
         "end": "August 2019",
         "description": [
-            "Won 1st place at Capital One's annual Hackathon of 540 interns with a Chrome extension that improves Amazon shoppers' financial literacy by integrating their budget & credit card data into the site and provides warnings/recommendations",
+            "Won 1st place at Capital One's Hackathon of 540 interns with a Chrome extension that improves Amazon shoppers' financial literacy by integrating their budget & credit card data into the site and provides warnings/recommendations",
             "Used NLP/NLU to generate reports of Anti-Money Laundering investigations (Python, Angular, AWS Snowflake)",
             "Designed hierarchical chart data visualizations and tab-based UI for AML investigation case data which highlights suspicious activity"
         ],
