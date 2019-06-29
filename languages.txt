@@ -7,5 +7,5 @@ JS/HTML/CSS
 Python
 Java
 SQL
-MATLAB
 Verilog
+Typescript/Angular
