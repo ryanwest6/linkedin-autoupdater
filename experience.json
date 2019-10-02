@@ -1,12 +1,13 @@
 {
 "experience": [
     {
-        "title": "Incoming Software Engineer",
-        "company": "Qualtrics (Subsidiary of ADP)",
+        "title": "Software Engineer",
+        "company": "SAP Qualtrics",
         "location": "Provo, UT",
         "start": "August 2019",
         "end": "Present",
         "description": [
+            "Developed on and maintained the architecture of the central data pipeline which processes all customer and internal data, using a variety of SQL and NoSQL databases"
         ],
         "links": []
     },
@@ -17,9 +18,10 @@
         "start": "June 2019",
         "end": "August 2019",
         "description": [
-            "Won 1st place at Capital One's Hackathon of 540 interns with a Chrome extension that improves Amazon shoppers' financial literacy by integrating their budget & credit card data into the site and provides warnings/recommendations",
-            "Used NLP/NLU to generate reports of Anti-Money Laundering investigations (Python, Angular, AWS Snowflake)",
-            "Designed hierarchical chart data visualizations and tab-based UI for AML investigation case data which highlights suspicious activity"
+            "Won 1st place at Capital One's Hackathon of 540 interns with the Fiber Chrome extension: integrates Amazon shoppers' budget/credit card data & warnings into the site to improve financial literacy",
+            "Used natural language processing in Python to generate crime reports of Anti-Money Laundering, bundled as a microservice",
+            "Built Angular UI for 1000+ crime investigators with detailed bank account data visualizations, an editor to write/export case reports, and automatic sentence generation for selected transactions",
+            "Built data pipeline that securely aggregates KYC customer data from AWS SQL/NoSQL databases"
         ],
         "links": [
             {
@@ -34,10 +36,11 @@
         "company": "Internet Security Research Lab (BYU)",
         "location": "BYU, Provo, UT",
         "start": "April 2019",
-        "end": "Present",
+        "end": "August 2019",
         "description": [
-            "Led 6-man team of researchers on designing a system to detect ransomware and extract the encryption keys it used from RAM",
-            "Researched CONIKS distributed PKI and Signal Protocol for man-in-the-middle attack vulnerability"
+            "Led 6-man team of researchers on designing a system to detect ransomware and extract the encryption keys it used from RAM; co-authored research grant proposal",
+            "Researched CONIKS distributed PKI and Signal Protocol for man-in-the-middle attack vulnerability",
+            "Provided extensive blockchain & distributed systems support/knowledge to PhD's & professors"
         ],
         "links": []
     },
@@ -48,7 +51,7 @@
         "start": "March 2018",
         "end": "June 2019",
         "description": [
-            "Developed an open-source decentralized identity network (Hyperledger Indy) in Rust & Python",
+            "Developed an open-source decentralized identity network (Hyperledger Indy) using blockchain & elliptic-curve cryptography in Rust & Python",
             "Researched/Designed Byzantine Fault Tolerance consensus algorithms & key revocation for GDPR",
             "Implemented cryptocurrency/fiat billing systems capable of processing 10k+ txns/sec with Docker",
             "Author of open-source cryptographic connection protocol for secure key/credential exchange",
