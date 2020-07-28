@@ -1,8 +1,8 @@
 Linux
-JIRA
-Jenkins
-SaltStack
-Git/SVN
-AWS
-Docker & VMs
+Hashicorp
+NoSQL Databases
+Jenkins/SaltStack
+AWS & GCP
+Container Orchestration / Docker
 Terraform
+Grafana

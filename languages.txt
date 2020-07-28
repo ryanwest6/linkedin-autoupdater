@@ -1,11 +1,8 @@
+Go
 C/C++
 C#
 Rust
 Bash
-Assembly
-JS/HTML/CSS
 Python
 Java
-SQL
-Verilog
-Typescript/Angular
+Dart/Flutter

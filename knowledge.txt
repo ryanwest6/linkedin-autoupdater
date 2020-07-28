@@ -1,13 +1,9 @@
 Computer Security
 Distributed Systems
 Machine Learning
-Backend/Fullstack
-Binary Disassembly
 Operating Systems
-Agile Leadership
+Reverse Engineering
 Blockchain
 DevOps
-Research
 Spanish (Fluent)
-Embedded Prog.
 Cryptography
