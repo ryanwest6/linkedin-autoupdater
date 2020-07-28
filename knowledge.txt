@@ -1,4 +1,4 @@
-Computer Security
+Computer Security / Cryptography
 Distributed Systems
 Machine Learning
 Operating Systems
@@ -6,4 +6,3 @@ Reverse Engineering
 Blockchain
 DevOps
 Spanish (Fluent)
-Cryptography
