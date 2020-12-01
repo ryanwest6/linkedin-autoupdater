@@ -1,13 +1,33 @@
 {
 "experience": [
+        {
+        "title": "Senior Research Scientist",
+        "company": "Crimson Vista",
+        "location": "",
+        "start": "December 2020",
+        "end": "Present",
+        "description": [
+            "1. Litigation support for legal cases requiring cybersecurity knowledge and source code reviews",
+            "2. Technical consulting for businesses involving infrastructure, blockchain, security, distributed systems, data, and more",
+            "3. Computer Science research and publishing that jointly contributes to a PhD"
+        ],
+        "links": []
+    },
     {
         "title": "Software/Site Reliability Engineer",
         "company": "SAP Qualtrics",
         "location": "Provo, UT",
         "start": "August 2019",
-        "end": "Present",
+        "end": "December 2020",
         "description": [
-            "Developed on and maintained the architecture of the central data pipeline which processes all customer and internal data, using a variety of SQL and NoSQL databases"
+            "Software Development:"
+            "Developed on and maintained central data pipeline which processes all customer and internal data, using MySQL Galera, Redis, Couchbase, RabbitMQ/Kafka, Java, Go",
+            "Oversaw design & development of a MongoDB XDCR (Cross Datacenter Replication) & conflict resolution distributed service (Go)",
+            "Designed and implemented event-sourcing microservice cluster in Go using AWS SNS/SQS/KMS, Nomad container orchestration, MongoDB",
+            "DevOps / Site Reliability Engineering:",
+            "Automated service creation, testing, deployment, secret injection, upgrading Docker containers and VMs using HashiCorp Nomad, Puppet, Consul & Hiera; Jenkins",
+            "Built dockerized scale tests with artillery.io",
+            "Created and responded to on-call alerts and metrics to monitor 400+ backend servers running in production using Grafana, Sensu, Consul, Prometheus, Sumologic, VictorOps",
         ],
         "links": []
     },
@@ -32,7 +52,7 @@
         ]
     },
     {
-        "title": "Security Researcher",
+        "title": "Security Researcher (Part-Time)",
         "company": "Internet Security Research Lab (BYU)",
         "location": "BYU, Provo, UT",
         "start": "April 2019",
